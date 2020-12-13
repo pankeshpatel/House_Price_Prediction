@@ -1,5 +1,6 @@
-# House Price Prediction
+#### House Price Prediction
 
-## Dataset Used: https://www.kaggle.com/quantbruce/real-estate-price-prediction/download
+Tutorial by ML guru on this @ https://tinyurl.com/y6hpsxqz
 
-## Link of the deployed web app on heroku : https://house-price-prediction-mlguru.herokuapp.com/apidocs/
+1. Dataset Used: https://www.kaggle.com/quantbruce/real-estate-price-prediction/download
+
